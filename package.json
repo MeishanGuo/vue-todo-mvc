@@ -1,15 +1,17 @@
 {
-  "name": "vue-todo-mvc",
-  "version": "0.1.0",
-  "description": "vue-todo-mvc",
+  "name": "@beisen/bs-chart",
+  "version": "0.1.11",
+  "description": "bs-chart",
   "author": {
     "name": "guomeishan",
     "email": "guomeishan@beisen.com"
   },
-  "maintainers": [{
-    "name": "guomeishan",
-    "email": "guomeishan@beisen.com"
-  }],
+  "maintainers": [
+    {
+      "name": "guomeishan",
+      "email": "guomeishan@beisen.com"
+    }
+  ],
   "keywords": [
     "beisen",
     "vue-component",
